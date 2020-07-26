@@ -1,4 +1,4 @@
-# Predictive_Algorthim_Challnage
+# Predictive_Algorithim_Challange
 
 
 # Problem - COVID 19
