@@ -23,6 +23,7 @@ A reliable tool for analysing and forecasting Coronavirus cases.
 - On-demand Services
 - Reliable / High Availability Services
 - Highly Accurate Results
+- Best Price
 
 
 ### Team:
